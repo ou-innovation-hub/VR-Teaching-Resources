@@ -53,4 +53,4 @@ So to visualize what it looks like when we integrate with respect to z first let
 **Different Applications** 
 
 The way we have been doing it above is using functinos that give a simple curve and won't necessarily become a ball, or a sphere. If we want to generate an object such as a regular ball or an abnormal ball, we want to use something called polar coordinates. Polar coordinates are useful for these sorts of situations as well as giving you a big headache, no I'm kidding, they are used as kind of a substition for normal variables. A very common example of using parametric equations is using the equations x = Cos(:theta:) and 
-y = sin(:theta:). Where do these come from? 
+y = sin(:theta:). Where do these come from? These come from the identity of cos^2(theta) + sin^2(theta) = 1. This equation comes from the pythagorean trigonemetric identity that used quite often in trigonometry and calculus. Which makes the correaltino of polar coordinates and calculus and round shapes make a lot of sense! To 
